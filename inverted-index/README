@@ -1,0 +1,6 @@
+Chapter: Boolean retrieval
+
+Implementation of the index (page 8)
+
+To generate the index
+$ make
